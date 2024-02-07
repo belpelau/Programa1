@@ -1,0 +1,17 @@
+---
+title: "Programa 1"
+author: "Laura Beltran Pellicer"
+date: "2024-02-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Cálculo de la área de un círculo.
+```{r}
+r<-2
+A<-pi*r^2
+```
+
